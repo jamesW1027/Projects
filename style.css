@@ -1,0 +1,71 @@
+.InnovateBham {
+  padding-left: 80px;
+}
+
+
+
+.main {
+    background-color: #facf32;
+    background-image: url("Images/mac.png");
+    background-repeat: no-repeat;
+    background-size: 285px;
+    background-position: center right;
+    height: 300px;
+    padding-left: 80px;
+    padding-top: 65px;
+    color: white;
+
+}
+
+.LM1 {
+    background-color: #facf32;
+    border-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .h {
+    max-width: 150px;
+    padding-right: 100px;
+    padding-top: 50px;
+
+  }
+
+  .c {
+    max-width: 150px;
+    padding-top: 50px;
+
+  }
+
+  .j {
+    max-width: 150px;
+    padding-left: 100px;
+    padding-top: 50px;
+  }
+
+  .bottom {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+  }
+
+  .corn {
+    padding-left: 40px;
+
+  }
